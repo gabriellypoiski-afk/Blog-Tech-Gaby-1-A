@@ -16,6 +16,6 @@ section{
 }
 .conteudo-site{
     display: flex;
-    flex-wrap: ;
+    flex-wrap: wrap ;
     justify-content: space-around;
 }
