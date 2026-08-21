@@ -6,10 +6,16 @@ header{
     background-color: aqua;
     text-align: center;
     padding: 16px;
-    margin: 0 auto;
+    margin: 16px;
+    max-width: 500px;
 }
 section{
     background-color: white;
     padding: 16px;
     margin: 16px;
+}
+.conteudo-site{
+    display: flex;
+    flex-wrap: ;
+    justify-content: space-around;
 }
